@@ -160,6 +160,8 @@ It shows the ability to:
 
 ---
 
+## Author: Andrea S. Greco
+
 ## Repository Structure
 
 ```text
@@ -180,5 +182,3 @@ ab-testing-conversion-optimization/
 ├── requirements.txt
 │
 └── README.md
-
-## Author: Andrea S. Greco
